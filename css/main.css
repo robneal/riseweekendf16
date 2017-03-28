@@ -405,7 +405,7 @@ Welcome Style
 #welcome {
   padding: 60px 0;
   text-align: center;
-  background: url(/img/riseGroupGray.jpg) no-repeat 50% center fixed;
+  background: url(../img/riseGroupGray.jpg) no-repeat 50% center fixed;
   background-size: cover;
   /*background-repeat: no-repeat;*/ 
 }
@@ -468,7 +468,7 @@ Music Style
 #music{
   padding: 110px 0;
   text-align:center;
-  background: url(/img/riseGroupGray.jpg) no-repeat 50% center fixed;
+  background: url(../img/riseGroupGray.jpg) no-repeat 50% center fixed;
   background-size: cover;
   /*background-repeat: no-repeat;*/ 
 }
@@ -671,7 +671,7 @@ Portfolio Style
 #portfolio {
   padding: 60px 0;
   text-align: center;
-      background: url(/img/riseGroupGray.jpg) no-repeat 50% center fixed;
+      background: url(../img/riseGroupGray.jpg) no-repeat 50% center fixed;
   background-size: cover;
   /*background-repeat: no-repeat;*/
 }
